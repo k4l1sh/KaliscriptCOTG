@@ -32,7 +32,7 @@ Here you can select the design that **Auto Builder** will perform in the selecte
 ###### How to use
 The **analyse** button shows all the cities in your list of cities with the letter-number in remarks, these are the cities that need construction. Set the **maximum number of cabins** to the amount you want to build before starting the construction of the other buildings. Also set the **start demolishing cabins after** to the percentage amount of buildings level 10 you wish to have before demolishing the cabins.
 The construction process will be carried out according to this schedule:
-1. Demolish resource nodes
+1. Demolish resource nodes that are in buildings locations
 2. Build cabins until **maximum number of cabins**
 3. Build other buildings until 100 buildings
 4. Build wall and towers
