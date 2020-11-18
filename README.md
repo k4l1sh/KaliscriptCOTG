@@ -1,5 +1,5 @@
 # KaliscriptCOTG
-This is a script to automate the raiding and construction on Crown of the Gods. Just confirm the selections in each auto tool and click to start.
+This is a script to automate the raiding and construction on Crown of the Gods.
 
 ![Kaliscript](https://i.imgur.com/ApRqvXM.png)
 
@@ -63,3 +63,11 @@ In the first lines of code, you can edit the settings for easy access.
           AutoRaidLvl = 8,
           DelayRaid = 0;
 ```
+###### Strategy
+![FirstPlace](https://i.imgur.com/kHbCSCE.png)
+
+The script does everything automatically, requiring just one-click to start each task.
+
+For cities construction, the best option is to build a vast number of low level cabins to acquire a huge fast construction speed. Your ministers will be working all the time if you always run the auto builder.
+
+For raiding, the best option is to run the script as many times as possible, never leaving troops standing still. Always remember to return troops and resend them to take advantage of a carry capacity greater than 100%.
